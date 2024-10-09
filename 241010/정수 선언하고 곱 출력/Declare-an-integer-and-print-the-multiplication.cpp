@@ -7,6 +7,6 @@ int main() {
     cin >> a >> b;
     a = 26;
     b = 5;
-    cout << a * b;
+    cout << a <<" * " << b <<" = " << a*b;
     return 0;
 }
