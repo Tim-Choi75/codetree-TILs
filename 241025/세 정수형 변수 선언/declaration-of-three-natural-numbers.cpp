@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    // 여기에 코드를 작성해주세
+
+    int a, b, c;
+    a=7;
+    b=23;
+    c=30;
+
+    cout << a <<" + " << b <<" = " << c ;
+
+    return 0;
+}
