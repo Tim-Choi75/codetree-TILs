@@ -10,8 +10,8 @@ int main() {
     cout << fixed;
     cout.precision(1);
 
-    cout << a << "ft = " << a << "cm" << endl;
-    cout << b << "ft = " << b << "cm" << endl;
+    cout << "9.2" << "ft = " << a << "cm" << endl;
+    cout << "1.3" << "mi = " << b << "cm" << endl;
 
     return 0;
 }
